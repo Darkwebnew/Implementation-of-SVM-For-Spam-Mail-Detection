@@ -58,6 +58,13 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 ## Output:
+### Data.info():
+
+![image](https://github.com/Darkwebnew/Implementation-of-SVM-For-Spam-Mail-Detection/assets/143114486/63fdec86-8799-41b9-a728-afad4e1ba13a)
+
+### Accuracy:
+
+![image](https://github.com/Darkwebnew/Implementation-of-SVM-For-Spam-Mail-Detection/assets/143114486/565701d0-f760-48a8-bd83-2026058e9a7b)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
